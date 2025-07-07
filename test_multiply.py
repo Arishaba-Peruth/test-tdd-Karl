@@ -47,4 +47,4 @@ def test_multiply_four_by_four():
     assert multiply(4, 4) == 16
 
 def test_multiply_large_number():
-    assert multiply(50, 90) == 50 * 90
+    assert multiply(23, 45) == 23 *  45
